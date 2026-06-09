@@ -11,6 +11,10 @@ Vehicle maintenance tracking application built with Laravel.
 - Authentication
 - Reminder Center
 
+## Screenshoot
+
+![Preview](preview.jpeg)
+
 ## Tech Stack
 
 - Laravel
